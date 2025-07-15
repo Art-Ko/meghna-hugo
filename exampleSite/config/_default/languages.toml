@@ -8,6 +8,16 @@ weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
+################################### Ukrainian language #####################################
+[uk]
+languageName = "Uk"
+languageCode = "uk-ua"
+contentDir = "content/ukrainian"
+weight = 1
+[uk.params]
+home = "Home"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+
 
 
 ################################### French language #####################################
